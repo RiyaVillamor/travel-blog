@@ -1,0 +1,60 @@
+.icon-logo {
+    padding-inline-start: 2rem;
+}
+ 
+.ul-nav {
+    padding-inline-end: 2rem;
+}
+
+.carousel-item > img {
+    height: 30rem;
+   
+}
+
+.blog-content {
+    margin-top: 90px;
+    margin-bottom: 70px;
+    margin-left: 3%;
+    margin-right: 3%;
+    align-content: center;
+    align-items: center;
+    justify-content: center;
+}
+
+footer {
+  
+    background: #171616;
+   
+    
+    font-family: "Montserrat",'Segoe UI', sans-serif ;
+    padding-top: 30px;
+    color: var(--text);
+  }
+  
+  .socials {
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0.5rem 0 0.5rem 0;
+    
+  }
+  
+  .socials li{
+    margin: 0 10px;
+  }
+  
+  .socials a{
+    text-decoration: none;
+    color: #f6f6f6;
+    padding: 9.5px;
+    border: 1px solid var(--bg-1);
+    border-radius: 3px;
+    transition: all 0.3s ease;
+  }
+
+  .footer-list{
+    list-style: none;
+    text-decoration: none;
+    text-align: center;
+  }
